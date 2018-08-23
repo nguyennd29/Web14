@@ -14,10 +14,12 @@
 
 .flex-container>article {
     background-color: #ffd700;
+    width: 70%;
 }
 
 .flex-container>aside {
     background-color: #808080;
+    width: 30%;
 }
 
 .footer {
