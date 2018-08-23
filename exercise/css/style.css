@@ -1,0 +1,25 @@
+
+.header {
+    background-color: #0000ff;
+    top: 0;
+}
+
+.nav {
+    background-color: #800080;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.flex-container>article {
+    background-color: #ffd700;
+}
+
+.flex-container>aside {
+    background-color: #808080;
+}
+
+.footer {
+    background-color: #00ffff;
+}
